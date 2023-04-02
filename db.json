@@ -1,0 +1,495 @@
+{
+  "cart":[
+
+  ],
+  "users": [
+    {
+      "firstName": "sajjak",
+      "lastName": "ali",
+      "email": "sajjak2506@gmail.com",
+      "password": "9598839695",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ],
+  "slippers": [
+    {
+      "id": 1,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8690390a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1319
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8691290a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1322
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8514026a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 850
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12714685a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1044
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12954294a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 599
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12813070a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9210264a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 520
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9836825a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 422
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/3384101b.jpg",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 550
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9694182b.jpg",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 449
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8514026a.webp",
+      "title": "suits",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 494
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12713279a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 13,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12713291a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 14,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12442602b.jpg",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "id": 15,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11676943a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2481
+    },
+    {
+      "id": 16,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11878450a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "id": 17,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12713291a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 18,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11599461a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 566
+    },
+    {
+      "id": 19,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12631719a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1091
+    },
+    {
+      "id": 20,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12631712a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1093
+    },
+    {
+      "id": 21,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12713332a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 22,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11879343a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 799
+    },
+    {
+      "id": 23,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11676508a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2621
+    },
+    {
+      "id": 24,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12689160a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1104
+    },
+    {
+      "id": 25,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12682994a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1208
+    },
+    {
+      "id": 26,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11747822b.jpg",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2659
+    },
+    {
+      "id": 27,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11676943a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2481
+    },
+    {
+      "id": 28,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12126908a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2099
+    },
+    {
+      "id": 29,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/2895413a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1239
+    },
+    {
+      "id": 30,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11465049b.jpg",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1532
+    },
+    {
+      "id": 31,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11747822b.jpg",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2483
+    },
+    {
+      "id": 32,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11685046a.webp",
+      "title": "girlethincwear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 999
+    },
+    {
+      "id": 33,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12713266a.webp",
+      "title": "frock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "image": "222",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 35
+    },
+    {
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 36
+    },
+    {
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 37
+    },{
+      "id": 38,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12704810a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 250,
+      "qty": 1
+    },
+    {
+      "id": 39,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12652276a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 40,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11425519a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "id": 41,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12141710a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 250
+    },
+    {
+      "id": 42,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12223087a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 250
+    },
+    {
+      "id": 43,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12627589a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 44,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12627464a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 350
+    },
+    {
+      "id": 45,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11683453a.webp",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 250
+    },
+    {
+      "id": 46,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11568732b.jpg",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "id": 47,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12442602b.jpg",
+      "title": "boyTshirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 450
+    },
+    {
+      "id": 48,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11568732b.jpg",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1472
+    },
+    {
+      "id": 49,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12248274a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1690
+    },
+    {
+      "id": 50,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12602537a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1800
+    },
+    {
+      "id": 51,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11712081a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2279
+    },
+    {
+      "id": 52,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12490417a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1300
+    },
+    {
+      "id": 53,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11515574a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1500
+    },
+    {
+      "id": 54,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12688812a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 2500
+    },
+    {
+      "id": 55,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11228570b.jpg",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1970
+    },
+    {
+      "id": 56,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12688777a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1799
+    },
+    {
+      "id": 57,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11214403a.webp",
+      "title": "ethnic wear",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1999
+    },
+    {
+      "id": 58,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12143032a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 512
+    },
+    {
+      "id": 59,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11425440a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 710
+    },
+    {
+      "id": 60,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10851397a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 710
+    },
+    {
+      "id": 61,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11748779a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 591
+    },
+    {
+      "id": 62,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12254761a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 680
+    },
+    {
+      "id": 63,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11823502a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 670
+    },
+    {
+      "id": 64,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12254922a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 715
+    },
+    {
+      "id": 65,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11422158a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 880
+    },
+    {
+      "id": 66,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10734523a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 834
+    },
+    {
+      "id": 67,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12738988a.webp",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 999
+    }
+  ]
+}
