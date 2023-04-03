@@ -71,9 +71,8 @@ const AdminPaage = () => {
         getData()
         
     },[])
-    const handleSubmit=(e)=>{
-        e.preventDefault()
-      
+    const handleSubmit=()=>{
+       
        axios.post(`http://localhost:8080/slippers`,state)
        dispatch({type:"reset"})
        

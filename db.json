@@ -1,7 +1,5 @@
 {
-  "cart":[
-
-  ],
+  "cart": [],
   "users": [
     {
       "firstName": "sajjak",
@@ -23,6 +21,13 @@
       "email": "",
       "password": "",
       "id": 3
+    },
+    {
+      "firstName": "Sajjak ",
+      "lastName": "Ali",
+      "email": "sajjak@gmail.com",
+      "password": "12345",
+      "id": 4
     }
   ],
   "slippers": [
@@ -39,13 +44,6 @@
       "title": "suits",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       "price": 1322
-    },
-    {
-      "id": 3,
-      "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8514026a.webp",
-      "title": "suits",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "price": 850
     },
     {
       "id": 4,
@@ -280,7 +278,8 @@
       "price": "",
       "selled": "",
       "id": 37
-    },{
+    },
+    {
       "id": 38,
       "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12704810a.webp",
       "title": "boyTshirt",
@@ -490,6 +489,30 @@
       "title": "jeans",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       "price": 999
+    },
+    {
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 68
+    },
+    {
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 69
+    },
+    {
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "selled": "",
+      "id": 70
     }
   ]
 }

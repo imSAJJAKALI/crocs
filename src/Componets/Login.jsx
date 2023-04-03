@@ -13,11 +13,12 @@ import {
     useColorModeValue,
   } from '@chakra-ui/react';
 import axios from 'axios';
-import { useReducer, useState } from 'react';
+import { useContext, useReducer, useState } from 'react';
 
   import {Link, Navigate} from 'react-router-dom'
   import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
+import { AuthContext } from '../Context/AuthContextProvider';
 
   const reducer=(state,action)=>{
     switch(action.type){
@@ -49,7 +50,7 @@ import { useReducer, useState } from 'react';
   }
   
   export default function Login() {
-
+    const {isAuth,setIsAuth}=useContext(AuthContext)
     const [state,dispatch]=useReducer(reducer,initialState)
     const [home,setHome]=useState(false)
 
@@ -70,7 +71,7 @@ import { useReducer, useState } from 'react';
                 }else if(state.email==e.email&&state.password==e.password){
                   setHome(true)
                   toast.success('✔ successfully login')
-                 
+                 setIsAuth(true)
                 
                 }
           })
@@ -101,7 +102,7 @@ import { useReducer, useState } from 'react';
           
         <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
           <Stack align={'center'}>
-            <Heading fontSize={'4xl'}>Sign in to your account</Heading>
+            <Heading fontSize={'4xl'}>Login into your Account</Heading>
             <Text fontSize={'lg'} color={'gray.600'}>
               to enjoy all of our cool <Link color={'blue.400'}>features</Link> ✌️
             </Text>
@@ -138,7 +139,7 @@ import { useReducer, useState } from 'react';
                   }}
                   onClick={handleLogin}
                   >
-                  Sign in
+                  Log-in
                 </Button>
               </Stack>
               <Stack pt={6}>

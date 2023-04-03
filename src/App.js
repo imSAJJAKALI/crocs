@@ -9,10 +9,11 @@ import PaymentPage from './Componets/Payment';
 
 function App() {
   return (
+  <div style={{width:"100%"}}>
     
     <AllRoutes/>
    
-   
+    </div>
    
   );
 }

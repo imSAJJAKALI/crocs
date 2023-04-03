@@ -1,10 +1,11 @@
 import { Box, Image, SimpleGrid,Heading } from '@chakra-ui/react'
 import React from 'react'
 import fse from '../Images/fse.jpg'
+import Carousel from './Carousel'
 
 const Mid = () => {
   return (
-    <Box marginTop={'80px'}>
+    <Box>
          <Box >
             
               <Image src='https://www.crocs.in/media/wysiwyg/479287021-jibbitz-top-banner-pc.png?auto=webp&format=png&quality=85'></Image>
@@ -40,6 +41,7 @@ const Mid = () => {
           <Box>
             <Image src={fse}></Image>
           </Box>
+         <Carousel/>
     </Box>
   )
 }

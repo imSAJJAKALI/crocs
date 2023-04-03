@@ -29,7 +29,7 @@ const {cartItem,setCartItem}=useContext(AuthContext)
             setLoading(false)
         })
     }else if(sort=='asc'||sort=='desc'){
-        axios.get(`http://localhost:8080/slippers?_limit=8&_page=${page}?_sort=price&_order=${sort}`)
+        axios.get(`http://localhost:8080/slippers?_sort=price&_order=${sort}&_limit=8&_page=${page}`)
         .then((res)=>{setData(res.data);setTotal(res.headers['x-total-count'])})
         .catch((err)=>console.log(err))
         .finally(()=>{
@@ -70,7 +70,7 @@ useEffect(()=>{
   return (
     <>
     <Flex>  
-    <Box position={'fixed'} ml={'10'}zIndex={'overlay'} p={'10'} bg={'gray.100'} >
+    <Box position={'absolute'} ml={'10'}zIndex={'overlay'} p={'10'} bg={'gray.100'} >
         <VStack>
         <Heading size={'md'}>Sort By Price</Heading>
         <Button onClick={()=>{setSort('asc');setFilter("")}}>Low to High</Button>

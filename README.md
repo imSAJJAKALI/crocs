@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+#Crocs
+Cloning of crocs
+Its a web application that provides a platform to buy E-commerce.It a user friendly E Commerce Website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Project-icon](https://www.crocs.com/on/demandware.static/Sites-crocs_us-Site/-/default/dwcc520068/images/logo-no-tag.svg)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+[website Url--](https://strong-seahorse-37b4e9.netlify.app//)
+## Tech Stack
+**Client:** Html ,Css,React, Chakra-ui,js,jsx
+**Client Server Api:** Json Server.
+## 🛠️ Skills
+Javascript, HTML, CSS, React.js, ChakraUI...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Run Locally
 
-### `npm test`
+Clone the project
+```bash
+git clone
+https://github.com/imSAJJAKALI/flashy-burst-4121
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install dependencies
 
-### `npm run build`
+```bash
+  npm install
+```
+Live Running server  -
+Start the server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+  npm run start
+```
+## Support
+For support, email -sajjak2506@gmail.com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For Go to the website click the link:-https://legendary-monstera-f8fb81.netlify.app/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+GitHub Link:https://github.com/Neelachari/supreme-honey-5251
+## Screenshots
+## Navbar
+![image](![image](https://user-images.githubusercontent.com/112471219/229434048-90895915-42dc-4763-9790-9c2dbaecf12f.png)
+)
 
-### `npm run eject`
+ ## Footer
+![image](![image](https://user-images.githubusercontent.com/112471219/229434255-ce83be91-d22d-46c4-94d6-be948df6fb5c.png)
+)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Login
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](![image](https://user-images.githubusercontent.com/112471219/229434583-e24a0b76-2de4-4c01-8b3c-ab1194eb97af.png)
+)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Signup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](![image](https://user-images.githubusercontent.com/112471219/229434760-d2ca5628-0713-4866-aea3-3cb6f9ca9135.png)
+)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](![image](https://user-images.githubusercontent.com/112471219/229434893-83d93b96-9dec-4dec-b336-0acb79acb079.png)
+)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![image](![image](https://user-images.githubusercontent.com/112471219/229435048-69e809d3-69b8-40d6-ad48-23305582bb38.png)
+)
+## Contributing
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are always welcome!
+## Authors
+Sajjak ali
+## Linkedin
+sajjak

@@ -12,6 +12,7 @@ import Signup from '../Componets/SignUp'
 import Products from '../Componets/Products'
 import Cart from '../Componets/Cart'
 import PaymentPage from '../Componets/Payment'
+import PrivateRoute from './PrivateRoute'
 
 
 
@@ -27,8 +28,19 @@ const AllRoutes = () => {
     <Route path="/" element={<Mid/>} />
      <Route path='/login' element={<Login/>} />
      <Route path='/signup' element={<Signup/>} />
-     <Route path='/products' element={<Products/>} />
-     <Route path='/cart' element={<Cart/>} />
+    
+     <Route path='/products' element={
+    
+     <Products/>
+    
+     } />
+
+     <Route path='/cart' element={
+      <PrivateRoute>
+     <Cart/>
+     </PrivateRoute>
+     }
+      />
      <Route path='/payment' element={<PaymentPage/>} />
      
     <Route path="/admin" element={<AdminPaage/>}/>
