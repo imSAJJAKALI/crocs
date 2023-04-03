@@ -40,12 +40,11 @@ For Go to the website click the link:-https://legendary-monstera-f8fb81.netlify.
 GitHub Link:https://github.com/Neelachari/supreme-honey-5251
 ## Screenshots
 ## Navbar
-![image](![image](https://user-images.githubusercontent.com/112471219/229434048-90895915-42dc-4763-9790-9c2dbaecf12f.png)
-)
+![image](https://user-images.githubusercontent.com/112471219/229435668-6f490e7f-adb8-4518-bb48-5c119aeb2e94.png)
 
  ## Footer
-![image](![image](https://user-images.githubusercontent.com/112471219/229434255-ce83be91-d22d-46c4-94d6-be948df6fb5c.png)
-)
+![image](https://user-images.githubusercontent.com/112471219/229434255-ce83be91-d22d-46c4-94d6-be948df6fb5c.png)
+
 
 ## Login
 
@@ -54,7 +53,7 @@ GitHub Link:https://github.com/Neelachari/supreme-honey-5251
 
 ## Signup
 
-![image](![image](https://user-images.githubusercontent.com/112471219/229434760-d2ca5628-0713-4866-aea3-3cb6f9ca9135.png)
+![image](![image]https://user-images.githubusercontent.com/112471219/229434760-d2ca5628-0713-4866-aea3-3cb6f9ca9135.png 
 )
 
 
