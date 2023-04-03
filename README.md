@@ -1,15 +1,15 @@
-#Mid-Shoppee
-Cloning of TATA 1mg
-Its a web application that provides a platform to buy Pharmacy.It a user friendly E Commerce Website.
+#Crocs
+Cloning of crocs
+Its a web application that provides a platform to buy E-commerce.It a user friendly E Commerce Website.
 
-![Project-icon](https://user-images.githubusercontent.com/112808279/229431818-2e9a03ff-576e-4691-86f2-f91af434f3ae.png)
+![Project-icon](https://www.crocs.com/on/demandware.static/Sites-crocs_us-Site/-/default/dwcc520068/images/logo-no-tag.svg)
 
 
 
-[website Url--](https://strong-sherbet-ba060b.netlify.app/)
+[website Url--](https://strong-seahorse-37b4e9.netlify.app//)
 ## Tech Stack
-**Client:** Html ,Css
-**Client Server Api:** Local Storage,Json Server.
+**Client:** Html ,Css,React, Chakra-ui,js,jsx
+**Client Server Api:** Json Server.
 ## 🛠️ Skills
 Javascript, HTML, CSS, React.js, ChakraUI...
 
@@ -19,7 +19,7 @@ Javascript, HTML, CSS, React.js, ChakraUI...
 Clone the project
 ```bash
 git clone
-https://github.com/Neelachari/supreme-honey-5251
+https://github.com/imSAJJAKALI/flashy-burst-4121
 
 Install dependencies
 
@@ -33,52 +33,44 @@ Start the server
   npm run start
 ```
 ## Support
-For support, email -neelachari34@gmail.com 
+For support, email -sajjak2506@gmail.com
 
 For Go to the website click the link:-https://legendary-monstera-f8fb81.netlify.app/
 
 GitHub Link:https://github.com/Neelachari/supreme-honey-5251
 ## Screenshots
-![image](https://user-images.githubusercontent.com/118505620/221416485-6cf1af70-d698-4312-960a-00273632ffd6.png)
+## Navbar
+![image](![image](https://user-images.githubusercontent.com/112471219/229434048-90895915-42dc-4763-9790-9c2dbaecf12f.png)
+)
 
- 
-![image](https://user-images.githubusercontent.com/118505620/221416678-69cc7569-d686-462e-87f5-c64cb98eac78.png)
+ ## Footer
+![image](![image](https://user-images.githubusercontent.com/112471219/229434255-ce83be91-d22d-46c4-94d6-be948df6fb5c.png)
+)
+
+## Login
+
+![image](![image](https://user-images.githubusercontent.com/112471219/229434583-e24a0b76-2de4-4c01-8b3c-ab1194eb97af.png)
+)
+
+## Signup
+
+![image](![image](https://user-images.githubusercontent.com/112471219/229434760-d2ca5628-0713-4866-aea3-3cb6f9ca9135.png)
+)
 
 
-![image](https://user-images.githubusercontent.com/118505620/221422216-1d4b6a98-f4e1-4555-9050-a96585157311.png)
 
-
-
-![image](https://user-images.githubusercontent.com/118505620/221422268-0f58a12f-1154-4367-b5ff-3db9b69b7c33.png)
-
-
-
-![image](https://user-images.githubusercontent.com/118505620/221422455-c0711c6f-7fd7-4638-8363-a60b0066d8f2.png)
+![image](![image](https://user-images.githubusercontent.com/112471219/229434893-83d93b96-9dec-4dec-b336-0acb79acb079.png)
+)
 
 
 
 
-![image](https://user-images.githubusercontent.com/118505620/221417339-510aad74-3ce2-44a1-b16f-55cbb01b3033.png)
+![image](![image](https://user-images.githubusercontent.com/112471219/229435048-69e809d3-69b8-40d6-ad48-23305582bb38.png)
+)
 ## Contributing
 
 Contributions are always welcome!
 ## Authors
-[Lovely Singh](https://github.com/gzbsingh/Singh-Jii)
-
--[Ramanjeet Singh](https://github.com/gzbsingh)
-
- [Sabar Patel](https://github.com/saber003)
- 
- [Chandan Kumar Behara](https://github.com/chandankumar1425)
- 
- [Neelesh](https://github.com/Neelachari)
+Sajjak ali
 ## Linkedin
-[Lovely Singh](https://www.linkedin.com/in/lovely-kumari-86189a215)
-
--[Ramanjeet Singh](https://www.linkedin.com/in/ramanjeet-singh-212430190/)
-
- [Sabar Patel](https://www.linkedin.com/in/saber-patel-992ab814a/)
- 
- [Chandan Kumar Behara](https://www.linkedin.com/in/kaushikchandan6372/)
- 
- [Neelesh](https://www.linkedin.com/in/neelesh-n-h-2704a7196/)
+sajjak
