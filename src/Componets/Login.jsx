@@ -50,7 +50,7 @@ import { AuthContext } from '../Context/AuthContextProvider';
   }
   
   export default function Login() {
-    const {isAuth,setIsAuth}=useContext(AuthContext)
+   
     const [state,dispatch]=useReducer(reducer,initialState)
     const [home,setHome]=useState(false)
 
@@ -72,7 +72,7 @@ import { AuthContext } from '../Context/AuthContextProvider';
                   setHome(true)
                   toast.success('✔ successfully login')
                  setIsAuth(true)
-                
+                console.log('Prashant')
                 }
           })
         })

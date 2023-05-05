@@ -15,7 +15,7 @@ const Products = () => {
  const [filter,setFilter]=useState("")
 const {cartItem,setCartItem}=useContext(AuthContext)
 
-
+console.log(total)
  
 
 
@@ -69,21 +69,29 @@ useEffect(()=>{
 
   return (
     <>
-    <Flex>  
-    <Box position={'absolute'} ml={'10'}zIndex={'overlay'} p={'10'} bg={'gray.100'} >
+    <div style={{display:"flex"}}>  
+    <Box w={"20%"} p={'10'} bg={'gray.100'} >
         <VStack>
         <Heading size={'md'}>Sort By Price</Heading>
         <Button onClick={()=>{setSort('asc');setFilter("")}}>Low to High</Button>
         <Button onClick={()=>{setSort('desc');setFilter("")}}>High to Low</Button>
+        <Button onClick={()=>{setSort('desc');setFilter("")}}>Under - 200</Button>
+        <Button onClick={()=>{setSort('desc');setFilter("")}}>Under - 300</Button>
+        <Button onClick={()=>{setSort('desc');setFilter("")}}>Discount - 25%</Button>
+        <Button onClick={()=>{setSort('desc');setFilter("")}}>Discount - 50%</Button>
+        {/* <Button onClick={()=>{setSort('desc');setFilter("")}}>Discount - 75%</Button> */}
          <Box border={'1px '} width={'150px'} borderColor={'black'} size='2px'></Box>
         <br />
          
          <Heading size={'md'}>Filter By Category</Heading>
-         <Checkbox value='jeans'  onChange={(e)=>{setFilter(e.target.value);setSort("");}}>Jeans</Checkbox>
+         <Checkbox value='women'  onChange={(e)=>{setFilter(e.target.value);setSort("");}}>Women</Checkbox>
+         <Checkbox value='men'  onChange={(e)=>{setFilter(e.target.value);setSort("");}}>Men</Checkbox>
+         <Checkbox value='kids'  onChange={(e)=>{setFilter(e.target.value);setSort("");}}>Kids</Checkbox>
+       
         </VStack>
     </Box>
 
-      <div  style={{width:"75%",marginLeft:"25%"}} >
+      <div style={{width:"78%",textAlign:"center"}} >
         <SimpleGrid columns={4} spacing={5} mt="3">
             {data.map((e)=>
             <>
@@ -103,22 +111,23 @@ useEffect(()=>{
                 </Link>
                
                 </div>
+                
             </div>
             </>
             )}
-           
        
         </SimpleGrid>
+            <div style={{display:"flex",justifyContent:"center",marginTop:"40px"}}>
+    <Button isDisabled={page==1} onClick={()=>setPage(page-1)} color={'black'}>Prev</Button>
+        <Button isDisabled={true}>{page}</Button>
+        <Button  onClick={()=>setPage(page+1) } color={'black'}>Next</Button>
+    </div>
        
        
     </div>
-    </Flex>
+    </div>
    
-    <SimpleGrid columns={3} >
-    <Button isDisabled={page==1} onClick={()=>setPage(page-1)} color={'black'}>Prev</Button>
-        <Button isDisabled={true}>{page}</Button>
-        <Button isDisabled={page==(Math.floor(total/8))} onClick={()=>setPage(page+1) } color={'black'}>Next</Button>
-    </SimpleGrid>
+   
    
    </>
 

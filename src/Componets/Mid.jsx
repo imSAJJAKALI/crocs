@@ -38,10 +38,10 @@ const Mid = () => {
             <Box boxShadow='lg' p='6' m='1' rounded='md' bg='white'><Image src='https://www.crocs.in/media/wysiwyg/469899037-shopbystyle-heels-wedges_1.png?auto=webp&format=png&quality=85'></Image></Box>
             <Box boxShadow='lg' p='6' m='1' rounded='md' bg='white'><Image src='https://www.crocs.in/media/wysiwyg/469899022-shopbystyle-flats_1.png?auto=webp&format=png&quality=85'></Image></Box>
           </SimpleGrid>
+         <Carousel/>
           <Box>
             <Image src={fse}></Image>
           </Box>
-         <Carousel/>
     </Box>
   )
 }

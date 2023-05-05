@@ -12,11 +12,7 @@ if(!isAuth){
 }
 
 
-  return (
-    <div>
-        {children}
-    </div>
-  )
+  return children
 }
 
 export default PrivateRoute

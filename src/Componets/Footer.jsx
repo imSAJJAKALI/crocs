@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <Box bg={'black'} position={'absolute'} color='white' mb={'20'} zIndex={'10'}>
        
-            <SimpleGrid m='auto' columns={5} pt='10'>
+            <SimpleGrid m='auto' columns={[1, 3, 3, 5]} pt='10'>
                 <VStack>
                 <Heading size={'md'}>MyAccount</Heading>
               <Link>Order Status</Link>
