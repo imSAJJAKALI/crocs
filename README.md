@@ -6,7 +6,7 @@ Its a web application that provides a platform to buy E-commerce.It a user frien
 
 
 
-[website Url--](https://strong-seahorse-37b4e9.netlify.app//)
+[website Url--](https://delicate-belekoy-6a378c.netlify.app/)
 ## Tech Stack
 **Client:** Html ,Css,React, Chakra-ui,js,jsx
 **Client Server Api:** Json Server.
